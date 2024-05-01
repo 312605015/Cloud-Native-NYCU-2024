@@ -35,7 +35,7 @@ jobs:
           context: ./app
           file: ./app/Dockerfile
           push: false
-          tags: app-local　
+          tags: app-local
 Additional
 Status Badge
 Shell Script (welcome to SA)
